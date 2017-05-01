@@ -1,0 +1,51 @@
+.List {
+  background-color: white;
+  box-shadow: 0px 0px 24px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 0.125rem;
+  vertical-align: text-bottom;
+}
+
+.List ul {
+  margin-bottom: 2rem;
+}
+
+.List li {
+  list-style: none;
+  height: 100px;
+  width: 95%;
+}
+
+.List p {
+  display: inline-block;
+}
+
+.List .before-checked {
+  border-radius: 50%;
+  float: right;
+  margin-top: 1rem;
+  border: 1.5px solid #D3D3D3;
+  background-color: white;
+  height: 25px;
+  width: 25px;
+}
+
+.List .delete {
+  margin-right: 1rem;
+  border: none;
+  background-color: white;
+}
+
+.List .check {
+  float: right;
+  margin-top: 1rem;
+}
+
+.List article {
+  all: none;
+  height: 50px;
+  padding: 5px;
+}
+
+li:last-child {
+  height: 170px;
+}

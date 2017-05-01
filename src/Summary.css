@@ -1,0 +1,12 @@
+.Summary .wrapper {
+  padding: 1rem 2rem;
+}
+
+.Summary .statement {
+  color: #777;
+  font-weight: 700;
+}
+
+.Summary .statement span {
+  color: rgb(64, 169, 181);
+}

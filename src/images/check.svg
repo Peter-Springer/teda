@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Check</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Task/Complete" transform="translate(-511.000000, -20.000000)">
+            <g id="Icon/Check">
+                <g transform="translate(511.000000, 20.000000)">
+                    <circle id="Oval-Copy-2" fill="#39AAB7" cx="12" cy="12" r="12"></circle>
+                    <g stroke-width="1" transform="translate(7.000000, 8.000000)" id="Shape" fill="#FFFFFF">
+                        <path d="M7.84105316,0.139127319 C8.03255197,-0.0522219169 8.35102756,-0.0441064934 8.54573802,0.150603363 L9.59865932,1.20352137 C9.79634722,1.40120865 9.80364691,1.71442338 9.60619196,1.91187772 L4.11920539,7.39884714 C3.92567765,7.59237428 3.60791814,7.58823359 3.41576037,7.39589528 L0.143699478,4.1207602 C-0.0512747429,3.92560279 -0.0460974402,3.60416183 0.148613025,3.40945197 L1.20153432,2.35653397 C1.39922222,2.15884669 1.71837947,2.15748853 1.9144693,2.35357775 L3.41395929,3.85306306 C3.61001451,4.04911767 3.92621766,4.05090518 4.11568793,3.86158289 L7.84105316,0.139127319 Z" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

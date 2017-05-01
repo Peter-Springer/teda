@@ -1,0 +1,11 @@
+.Checkmark {
+  margin: 2rem;
+  text-align: center;
+}
+
+.Checkmark h1 {
+  color: rgba(198, 198, 198, 1);
+  font-weight: 300;
+  margin-bottom: 2rem;
+  line-height: 3rem;
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Delete</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Task/Delete" transform="translate(-31.000000, -26.000000)" stroke="#D24455">
+            <g id="Icon/Delete">
+                <g transform="translate(29.000000, 23.000000)">
+                    <g id="Line">
+                        <path d="M9,9.89583333 L4.33695652,4.96440972 L9,9.89583333 L13.9314236,5.23278986 L9,9.89583333 Z M9,9.89583333 L4.06857639,14.5588768 L9,9.89583333 L13.6630435,14.8272569 L9,9.89583333 Z" stroke-width="3"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

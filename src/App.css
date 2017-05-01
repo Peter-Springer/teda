@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(50,160,174);
+}
+
+.App {
+  max-width: 40rem;
+  margin: 0 auto;
+  margin-top: 3rem;
+}
